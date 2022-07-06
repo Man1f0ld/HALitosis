@@ -4,7 +4,7 @@
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Discord](https://img.shields.io/badge/%3CHALitosis%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KgrChecyQt)
-[<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />]("./LICENSE.md")
+[<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />](./LICENSE.md)
 
 <img align="right" src="docs/images/halitosis_badge_clear.png" height="300px">
 
