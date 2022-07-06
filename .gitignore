@@ -1,0 +1,6 @@
+# Ignore venv
+.venv
+
+# Ignore Jupyter Notebooks
+*.ipynb
+~
